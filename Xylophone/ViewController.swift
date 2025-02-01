@@ -1,9 +1,3 @@
-//
-//  ViewController.swift
-//  Xylophone
-//
-//  Created by Phan56 on 16.09.2024.
-//
 
 import UIKit
 import AVFoundation
